@@ -17,3 +17,4 @@ spec:
         image: nginx:1.21.0
         ports:
         - containerPort: 80
+        
